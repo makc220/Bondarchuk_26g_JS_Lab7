@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/css/main.ee33b182.css",
+    "main.js": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/js/main.6f9421fd.js",
+    "static/js/453.e804acdd.chunk.js": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/js/453.e804acdd.chunk.js",
+    "index.html": "/makc220/Bondarchuk_26g_JS_Lab7%20/index.html",
+    "main.ee33b182.css.map": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/css/main.ee33b182.css.map",
+    "main.6f9421fd.js.map": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/js/main.6f9421fd.js.map",
+    "453.e804acdd.chunk.js.map": "/makc220/Bondarchuk_26g_JS_Lab7%20/static/js/453.e804acdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee33b182.css",
+    "static/js/main.6f9421fd.js"
+  ]
+}
